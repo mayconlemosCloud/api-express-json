@@ -1,0 +1,38 @@
+[
+	{
+		"day": "Segunda",
+		"intervals": [
+			{
+				"start": "14:30",
+				"end": "15:00"
+			}
+		]
+	},
+	{
+		"day": "Segunda",
+		"intervals": [
+			{
+				"start": "16:30",
+				"end": "18:00"
+			}
+		]
+	},
+	{
+		"day": "Quarta",
+		"intervals": [
+			{
+				"start": "09:30",
+				"end": "14:00"
+			}
+		]
+	},
+	{
+		"day": "Terca",
+		"intervals": [
+			{
+				"start": "14:30",
+				"end": "15:00"
+			}
+		]
+	}
+]
